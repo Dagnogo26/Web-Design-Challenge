@@ -1,0 +1,40 @@
+.navbar{
+    margin-bottom: 50px;
+}
+.navbar-brand {
+    color: white;
+    
+    
+}
+.nav-link {
+    color: gray;
+}
+.title h1{
+    color: palevioletred;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-bottom:20px;
+    text-align: center;
+
+
+}
+.inset{
+    border-style: outset;
+    margin-bottom:100px;
+}
+p{
+    padding-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    padding: 75px;
+
+}
+.Viz h1{
+    color:palevioletred;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-bottom:20px;
+    margin-top:150px;
+    text-align: center;
+}  
