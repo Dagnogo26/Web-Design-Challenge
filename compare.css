@@ -34,10 +34,11 @@ img{
 }
 h2{
     color: palevioletred;
+    text-align: center;
 }
 
 .table{
-    width: 1500px;
+    width: 1200px;
     margin-left: 100px;
     margin-right: 100px;
 }
